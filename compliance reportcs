@@ -1,0 +1,7 @@
+public class ComplianceReport
+{
+    public int Id { get; set; }
+    public DateTime DateGenerated { get; set; }
+    public string ReportData { get; set; }
+    // Additional fields as required
+}
